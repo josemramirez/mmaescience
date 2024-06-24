@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    208294,       3511]
-NotebookOptionsPosition[    140481,       2388]
-NotebookOutlinePosition[    207601,       3504]
-CellTagsIndexPosition[    207558,       3501]
+NotebookDataLength[    208226,       3510]
+NotebookOptionsPosition[    140491,       2388]
+NotebookOutlinePosition[    207533,       3503]
+CellTagsIndexPosition[    207490,       3500]
 WindowTitle->Statistics
 WindowFrame->PopupMenu*)
 
@@ -2181,7 +2181,7 @@ VVVVVVVVVdXfAOZo1vM=
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], 
   Column]], "Text",
  Editable->False,
- Deletable->False,ExpressionUUID->"448b7787-480c-4a65-ba59-b379300e9a03"],
+ Deletable->False,ExpressionUUID->"9058d52d-b565-4a7d-a3c7-678afb7c180e"],
 
 Cell[BoxData[
  SubsuperscriptBox["cloud", 
@@ -2193,7 +2193,7 @@ Cell[BoxData[
    FontSize->9]]], "Text",
  Editable->False,
  Deletable->False,
- Background->None,ExpressionUUID->"55eb7d24-84c2-45a7-8bf4-fc9b0b8957be"],
+ Background->None,ExpressionUUID->"5d3bd394-f59a-44cd-aa0b-8beb55788512"],
 
 Cell[CellGroupData[{
 
@@ -2203,7 +2203,7 @@ Cell[BoxData[
    "https://www.wolframcloud.com/obj/dronesaipeiskos/Published/Statistics_v01.\
 nb"},
   "HyperlinkURL"]], "Subtitle",
- TextAlignment->Center,ExpressionUUID->"08d7d8c3-8281-4553-9714-f74a5e64fcf1"],
+ TextAlignment->Center,ExpressionUUID->"f594bcfc-bd04-4616-925c-2e6f3faebe08"],
 
 Cell[BoxData[
  TagBox[GridBox[{
@@ -2345,8 +2345,8 @@ Regular\\\"]\\) 2024 I\"\>",
       Appearance->"DialogBox",
       ButtonFunction:>(
        NotebookOpen[
-        "https://github.com/josemramirez/mmaescience/blob/main/calc_intro/\
-CalceScience_Software_GitHubv0.2_PROD.nb"]; Null),
+        "https://raw.githubusercontent.com/josemramirez/mmaescience/main/calc_\
+intro/CalceScience_Software_GitHubv0.2_PROD.nb"]; Null),
       Evaluator->Automatic,
       ImageSize->{290, 100},
       Method->"Preemptive"]}
@@ -2355,11 +2355,11 @@ CalceScience_Software_GitHubv0.2_PROD.nb"]; Null),
    GridBoxAlignment->{"Columns" -> {{Left}}, "Rows" -> {{Baseline}}},
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
   "Grid"]], "Text",
- TextAlignment->Left,ExpressionUUID->"184d4d26-61a9-4104-822c-e4b61c5d9519"],
+ TextAlignment->Left,ExpressionUUID->"78201a2d-6829-4cd4-a241-3109edcc3f3c"],
 
 Cell[BoxData[
  RowBox[{"Material", " ", "Curso", " ", "Estad\[IAcute]stica", " ", "2024", 
-  " ", "II"}]], "Text",ExpressionUUID->"b6fabbdb-4d33-4a1a-a695-5985beb581d8"],
+  " ", "II"}]], "Text",ExpressionUUID->"d3532857-ac95-452f-960c-b0207f56215f"],
 
 Cell[BoxData[
  ButtonBox["\<\"Connect\"\>",
@@ -2368,8 +2368,8 @@ Cell[BoxData[
    "https://www.wolframcloud.com/obj/dronesaipeiskos/mathPiX/CreatorStatPiX_\
 Cloud_v1.mx"],
   Evaluator->Automatic,
-  Method->"Preemptive"]], "Input",ExpressionUUID->"95712056-cd5e-4b62-8ab5-\
-a6f161d52894"],
+  Method->"Preemptive"]], "Input",ExpressionUUID->"8a19a8f9-6337-4dc8-afe5-\
+f2d5db693e0d"],
 
 Cell[BoxData[
  ButtonBox["\<\"Tutorial\"\>",
@@ -2381,9 +2381,9 @@ Cell[BoxData[
   Evaluator->Automatic,
   ImageSize->{222, 50},
   Method->"Preemptive"]], "Text",
- TextAlignment->Left,ExpressionUUID->"a288db53-49ed-478f-9c83-d575a5b448a0"],
+ TextAlignment->Left,ExpressionUUID->"d08058c9-1500-4405-8f00-59bd5d5a8a58"],
 
-Cell["Describe el Tutorial.", "Text",ExpressionUUID->"f851cf40-329e-4679-94c2-78651746ef5e"]
+Cell["Describe el Tutorial.", "Text",ExpressionUUID->"1c214c02-5d7e-497b-ae14-cf6ce83d75b9"]
 }, Open  ]]
 },
 Editable->False,
@@ -3482,7 +3482,6 @@ qqqqqqqqqqqqqqqqxwBvLGPc
   Interleaving -> True],
 WindowTitle->"Statistics",
 ScrollingOptions->{"VerticalScrollRange"->Fit},
-PrivateNotebookOptions->{"CloudPublishPath"->"/Published/Statistics_v01.nb"},
 ShowCellBracket->False,
 TaggingRules-><|"SlideshowSettings" -> <|"Toolbar" -> True|>|>,
 Magnification->1.15,
@@ -3490,7 +3489,7 @@ Background->Opacity[0.6,
   RGBColor[1, 0.9, 0.8]],
 FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (July 24, 2023)",
 StyleDefinitions->"Default.nb",
-ExpressionUUID->"ca42c794-9449-41fd-aced-1141eb89a9cc"
+ExpressionUUID->"4240e5cb-9a61-49c4-8052-2b0eae2c915e"
 ]
 (* End of Notebook Content *)
 
@@ -3503,17 +3502,19 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[585, 21, 131407, 2162, 90, "Text",ExpressionUUID->"448b7787-480c-4a65-ba59-b379300e9a03"],
-Cell[131995, 2185, 276, 10, 39, "Text",ExpressionUUID->"55eb7d24-84c2-45a7-8bf4-fc9b0b8957be"],
+Cell[585, 21, 131407, 2162, 90, "Text",ExpressionUUID->"9058d52d-b565-4a7d-a3c7-678afb7c180e"],
+Cell[131995, 2185, 276, 10, 39, "Text",ExpressionUUID->"5d3bd394-f59a-44cd-aa0b-8beb55788512"],
 Cell[CellGroupData[{
-Cell[132296, 2199, 304, 6, 107, InheritFromParent,ExpressionUUID->"08d7d8c3-8281-4553-9714-f74a5e64fcf1"],
-Cell[132603, 2207, 6896, 150, 504, InheritFromParent,ExpressionUUID->"184d4d26-61a9-4104-822c-e4b61c5d9519"],
-Cell[139502, 2359, 169, 2, 39, "Text",ExpressionUUID->"b6fabbdb-4d33-4a1a-a695-5985beb581d8"],
-Cell[139674, 2363, 307, 8, 47, "Input",ExpressionUUID->"95712056-cd5e-4b62-8ab5-a6f161d52894"],
-Cell[139984, 2373, 386, 10, 77, InheritFromParent,ExpressionUUID->"a288db53-49ed-478f-9c83-d575a5b448a0"],
-Cell[140373, 2385, 92, 0, 39, "Text",ExpressionUUID->"f851cf40-329e-4679-94c2-78651746ef5e"]
+Cell[132296, 2199, 304, 6, 107, InheritFromParent,ExpressionUUID->"f594bcfc-bd04-4616-925c-2e6f3faebe08"],
+Cell[132603, 2207, 6906, 150, 504, InheritFromParent,ExpressionUUID->"78201a2d-6829-4cd4-a241-3109edcc3f3c"],
+Cell[139512, 2359, 169, 2, 39, "Text",ExpressionUUID->"d3532857-ac95-452f-960c-b0207f56215f"],
+Cell[139684, 2363, 307, 8, 47, "Input",ExpressionUUID->"8a19a8f9-6337-4dc8-afe5-f2d5db693e0d"],
+Cell[139994, 2373, 386, 10, 77, InheritFromParent,ExpressionUUID->"d08058c9-1500-4405-8f00-59bd5d5a8a58"],
+Cell[140383, 2385, 92, 0, 39, "Text",ExpressionUUID->"1c214c02-5d7e-497b-ae14-cf6ce83d75b9"]
 }, Open  ]]
 }
 ]
 *)
+
+(* End of internal cache information *)
 
