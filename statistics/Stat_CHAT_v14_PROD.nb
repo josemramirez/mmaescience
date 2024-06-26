@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    102477,       1954]
-NotebookOptionsPosition[     24402,        614]
-NotebookOutlinePosition[    100423,       1905]
-CellTagsIndexPosition[    100183,       1895]
+NotebookDataLength[    102473,       1953]
+NotebookOptionsPosition[     24398,        613]
+NotebookOutlinePosition[    100419,       1904]
+CellTagsIndexPosition[    100179,       1894]
 WindowFrame->PopupMenu*)
 
 (* Beginning of Notebook Content *)
@@ -105,15 +105,14 @@ Cell[BoxData[{
     RowBox[{
     "CloudObject", "[", 
      "\"\<https://www.wolframcloud.com/obj/dbc639cc-93d6-4c26-876f-\
-e5320654c70a\>\"", "]"}]}], ";"}], "\[IndentingNewLine]", 
-  "\[IndentingNewLine]", 
+e5320654c70a\>\"", "]"}]}], ";"}], "\[IndentingNewLine]", "\n", 
   RowBox[{"(*", 
    RowBox[{"==", 
     RowBox[{
      RowBox[{"Introduce", " ", "tu", " ", "Key", " ", "de", " ", "MMaTeX"}], 
      "-", 
      RowBox[{"AI", " ", 
-      RowBox[{"aqui", "!!"}]}]}], "=="}], "*)"}]}], "\n", 
+      RowBox[{"aqui", "!!"}]}]}], "=="}], "*)"}]}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{
    RowBox[{"If", "[", 
@@ -314,7 +313,7 @@ AIPackage_v8.nb\>\"",
    3.9284093401763687`*^9, 3.928409383342217*^9}},
  Background->RGBColor[1, 0.9, 0.8],
  CellTags->"initCell",
- CellLabel->"In[4]:=",
+ CellLabel->"In[1]:=",
  CellID->2107135677,ExpressionUUID->"60534479-7eac-4d9a-8286-e3f54bfb5c41"],
 
 Cell[BoxData[{
@@ -389,7 +388,7 @@ Cell[BoxData[{
    3.928343435616364*^9, {3.928357803098119*^9, 3.928357815907474*^9}},
  Background->RGBColor[0.94, 0.91, 0.88],
  CellTags->"updateLec",
- CellLabel->"In[29]:=",
+ CellLabel->"In[6]:=",
  CellID->829478723,ExpressionUUID->"ab231f23-27f7-462e-9fab-4cd2294fc17c"],
 
 Cell[BoxData[{
@@ -493,7 +492,7 @@ la primera ley de la termodin\[AAcute]mica.\>\"", ",", "20"}], "]"}], ",",
    3.928409755420001*^9}, {3.928409928225492*^9, 3.928409983163665*^9}, {
    3.928410022569168*^9, 3.928410112182349*^9}},
  CellTags->"initConversation",
- CellLabel->"In[21]:=",
+ CellLabel->"In[12]:=",
  CellID->721939173,ExpressionUUID->"9ee51e3b-698c-4749-8baf-5b152a287f0d"],
 
 Cell[BoxData[
@@ -534,7 +533,7 @@ maximum): \>\"", "<>", "cellsInputTxtL"}], ",", " ", "myAPIKeyC"}], "]"}],
    3.9284096655193577`*^9, 3.928409670783339*^9}, {3.928409740448106*^9, 
    3.928409755420001*^9}, {3.9284098699300756`*^9, 3.928409873487432*^9}},
  CellTags->"initChat",
- CellLabel->"In[36]:=",
+ CellLabel->"In[15]:=",
  CellID->187794931,ExpressionUUID->"a6009b22-b9fb-4554-91e7-dc9e7fa1054b"],
 
 Cell[BoxData[
@@ -559,7 +558,7 @@ Cell[BoxData[
   3.928337448792973*^9}, {3.928341459371441*^9, 3.928341572274302*^9}, {
   3.928341611715084*^9, 3.928341728531497*^9}},
  CellTags->"initConversation",
- CellLabel->"In[17]:=",
+ CellLabel->"In[14]:=",
  CellID->952827947,ExpressionUUID->"563494c8-3a7e-4d02-9a97-c37fc13a07dd"],
 
 Cell[CellGroupData[{
@@ -596,7 +595,7 @@ Cell[BoxData[
  Deletable->False,
  CellChangeTimes->{{3.928347364574209*^9, 3.9283473645775146`*^9}, 
    3.928349067332424*^9},
- CellLabel->"In[19]:=",
+ CellLabel->"In[16]:=",
  CellID->858850116,ExpressionUUID->"20d299e9-cab5-407f-947b-bb7f16a80629"],
 
 Cell[BoxData[
@@ -607,13 +606,13 @@ Cell[BoxData[
  Editable->False,
  Deletable->False,
  CellChangeTimes->{{3.9283490373679857`*^9, 3.928349044724609*^9}},
- CellLabel->"In[20]:=",
+ CellLabel->"In[17]:=",
  CellID->1246418902,ExpressionUUID->"71d74e15-55dd-425e-9e75-a682c002f861"]
 }, Closed]]
 }, Closed]]
 },
 WindowToolbars->{},
-WindowSize->{874, 852},
+WindowSize->{850, 920},
 WindowMargins->{{Automatic, 382}, {36, Automatic}},
 WindowFrame->"PopupMenu",
 BackgroundAppearance->Image[CompressedData["
@@ -1857,102 +1856,102 @@ ExpressionUUID->"09664cca-67b9-46bf-9938-26cbd2ca37c6"
 (*CellTagsOutline
 CellTagsIndex->{
  "initCell"->{
-  Cell[2963, 86, 8962, 231, 23, "Input",ExpressionUUID->"60534479-7eac-4d9a-8286-e3f54bfb5c41",
+  Cell[2963, 86, 8959, 230, 23, "Input",ExpressionUUID->"60534479-7eac-4d9a-8286-e3f54bfb5c41",
    CellOpen->False,
    CellTags->"initCell",
    CellID->2107135677]},
- "updateLec"->{
-  Cell[11928, 319, 3356, 73, 23, "Input",ExpressionUUID->"ab231f23-27f7-462e-9fab-4cd2294fc17c",
+ "initChat"->{
+  Cell[19873, 497, 1947, 39, 23, "Input",ExpressionUUID->"a6009b22-b9fb-4554-91e7-dc9e7fa1054b",
    CellOpen->False,
-   CellTags->"updateLec",
-   CellID->829478723]},
+   CellTags->"initChat",
+   CellID->187794931]},
+ "initConversation"->{
+  Cell[17132, 436, 2738, 59, 23, "Input",ExpressionUUID->"9ee51e3b-698c-4749-8baf-5b152a287f0d",
+   CellOpen->False,
+   CellTags->"initConversation",
+   CellID->721939173],
+  Cell[21823, 538, 911, 23, 23, "Input",ExpressionUUID->"563494c8-3a7e-4d02-9a97-c37fc13a07dd",
+   CellOpen->False,
+   CellTags->"initConversation",
+   CellID->952827947]},
  "mmaitexRunCollapse"->{
-  Cell[15287, 394, 896, 21, 23, "Input",ExpressionUUID->"2492f2ca-398a-4163-9da1-abbc69a8933a",
+  Cell[15283, 393, 896, 21, 23, "Input",ExpressionUUID->"2492f2ca-398a-4163-9da1-abbc69a8933a",
    CellOpen->False,
    CellTags->{"mmaitexRunCollapse", "mmatexRunCollapse"},
    CellID->1465937309]},
  "mmatexRunCollapse"->{
-  Cell[15287, 394, 896, 21, 23, "Input",ExpressionUUID->"2492f2ca-398a-4163-9da1-abbc69a8933a",
+  Cell[15283, 393, 896, 21, 23, "Input",ExpressionUUID->"2492f2ca-398a-4163-9da1-abbc69a8933a",
    CellOpen->False,
    CellTags->{"mmaitexRunCollapse", "mmatexRunCollapse"},
    CellID->1465937309]},
- "initConversation"->{
-  Cell[17136, 437, 2738, 59, 23, "Input",ExpressionUUID->"9ee51e3b-698c-4749-8baf-5b152a287f0d",
+ "updateLec"->{
+  Cell[11925, 318, 3355, 73, 23, "Input",ExpressionUUID->"ab231f23-27f7-462e-9fab-4cd2294fc17c",
    CellOpen->False,
-   CellTags->"initConversation",
-   CellID->721939173],
-  Cell[21827, 539, 911, 23, 23, "Input",ExpressionUUID->"563494c8-3a7e-4d02-9a97-c37fc13a07dd",
-   CellOpen->False,
-   CellTags->"initConversation",
-   CellID->952827947]},
- "initChat"->{
-  Cell[19877, 498, 1947, 39, 23, "Input",ExpressionUUID->"a6009b22-b9fb-4554-91e7-dc9e7fa1054b",
-   CellOpen->False,
-   CellTags->"initChat",
-   CellID->187794931]}
+   CellTags->"updateLec",
+   CellID->829478723]}
  }
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"initCell", 98814, 1858},
- {"updateLec", 98996, 1863},
- {"mmaitexRunCollapse", 99188, 1868},
- {"mmatexRunCollapse", 99411, 1873},
- {"initConversation", 99633, 1878},
- {"initChat", 99994, 1887}
+ {"initCell", 98810, 1857},
+ {"initChat", 98991, 1862},
+ {"initConversation", 99180, 1867},
+ {"mmaitexRunCollapse", 99551, 1876},
+ {"mmatexRunCollapse", 99774, 1881},
+ {"updateLec", 99989, 1886}
  }
 *)
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[583, 22, 975, 33, 146, "Chapter",ExpressionUUID->"22ac0aba-f941-4257-a144-f3aa51de7208",
+Cell[583, 22, 975, 33, 265, "Chapter",ExpressionUUID->"22ac0aba-f941-4257-a144-f3aa51de7208",
  CellID->1595627904],
 Cell[1561, 57, 1015, 17, 64, "Text",ExpressionUUID->"70b07db8-ae50-4026-9f89-fa1146c87508",
  CellID->399689850],
 Cell[CellGroupData[{
 Cell[2601, 78, 359, 6, 84, "Section",ExpressionUUID->"21d639e3-c707-4316-9009-92bade32344d",
  CellID->1357162851],
-Cell[2963, 86, 8962, 231, 23, "Input",ExpressionUUID->"60534479-7eac-4d9a-8286-e3f54bfb5c41",
+Cell[2963, 86, 8959, 230, 23, "Input",ExpressionUUID->"60534479-7eac-4d9a-8286-e3f54bfb5c41",
  CellOpen->False,
  CellTags->"initCell",
  CellID->2107135677],
-Cell[11928, 319, 3356, 73, 23, "Input",ExpressionUUID->"ab231f23-27f7-462e-9fab-4cd2294fc17c",
+Cell[11925, 318, 3355, 73, 23, "Input",ExpressionUUID->"ab231f23-27f7-462e-9fab-4cd2294fc17c",
  CellOpen->False,
  CellTags->"updateLec",
  CellID->829478723],
-Cell[15287, 394, 896, 21, 23, "Input",ExpressionUUID->"2492f2ca-398a-4163-9da1-abbc69a8933a",
+Cell[15283, 393, 896, 21, 23, "Input",ExpressionUUID->"2492f2ca-398a-4163-9da1-abbc69a8933a",
  CellOpen->False,
  CellTags->{"mmaitexRunCollapse", "mmatexRunCollapse"},
  CellID->1465937309]
 }, Closed]]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[16232, 421, 901, 14, 89, "Title",ExpressionUUID->"ee4f86ff-7e19-432a-bee4-637e55977a38",
+Cell[16228, 420, 901, 14, 89, "Title",ExpressionUUID->"ee4f86ff-7e19-432a-bee4-637e55977a38",
  CellID->41265470],
-Cell[17136, 437, 2738, 59, 23, "Input",ExpressionUUID->"9ee51e3b-698c-4749-8baf-5b152a287f0d",
+Cell[17132, 436, 2738, 59, 23, "Input",ExpressionUUID->"9ee51e3b-698c-4749-8baf-5b152a287f0d",
  CellOpen->False,
  CellTags->"initConversation",
  CellID->721939173],
-Cell[19877, 498, 1947, 39, 23, "Input",ExpressionUUID->"a6009b22-b9fb-4554-91e7-dc9e7fa1054b",
+Cell[19873, 497, 1947, 39, 23, "Input",ExpressionUUID->"a6009b22-b9fb-4554-91e7-dc9e7fa1054b",
  CellOpen->False,
  CellTags->"initChat",
  CellID->187794931],
-Cell[21827, 539, 911, 23, 23, "Input",ExpressionUUID->"563494c8-3a7e-4d02-9a97-c37fc13a07dd",
+Cell[21823, 538, 911, 23, 23, "Input",ExpressionUUID->"563494c8-3a7e-4d02-9a97-c37fc13a07dd",
  CellOpen->False,
  CellTags->"initConversation",
  CellID->952827947],
 Cell[CellGroupData[{
-Cell[22763, 566, 240, 4, 67, "Subsection",ExpressionUUID->"d5f425a7-e410-4ed5-a8d5-3da9afc111d3",
+Cell[22759, 565, 240, 4, 67, "Subsection",ExpressionUUID->"d5f425a7-e410-4ed5-a8d5-3da9afc111d3",
  CellID->1903118172],
-Cell[23006, 572, 278, 6, 37, "Input",ExpressionUUID->"62034141-faad-4b09-ab12-12f1558ebbb0",
+Cell[23002, 571, 278, 6, 37, "Input",ExpressionUUID->"62034141-faad-4b09-ab12-12f1558ebbb0",
  CellID->914213058]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[23321, 583, 279, 5, 46, "Subsection",ExpressionUUID->"46ee1578-b44c-4e7a-9c1c-554e5355112b",
+Cell[23317, 582, 279, 5, 46, "Subsection",ExpressionUUID->"46ee1578-b44c-4e7a-9c1c-554e5355112b",
  CellID->88620289],
-Cell[23603, 590, 357, 9, 37, "Input",ExpressionUUID->"20d299e9-cab5-407f-947b-bb7f16a80629",
+Cell[23599, 589, 357, 9, 37, "Input",ExpressionUUID->"20d299e9-cab5-407f-947b-bb7f16a80629",
  CellID->858850116],
-Cell[23963, 601, 411, 9, 37, "Input",ExpressionUUID->"71d74e15-55dd-425e-9e75-a682c002f861",
+Cell[23959, 600, 411, 9, 37, "Input",ExpressionUUID->"71d74e15-55dd-425e-9e75-a682c002f861",
  CellID->1246418902]
 }, Closed]]
 }, Closed]]
