@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    930390,      16880]
-NotebookOptionsPosition[    822111,      14990]
-NotebookOutlinePosition[    905923,      16390]
-CellTagsIndexPosition[    905772,      16383]
+NotebookDataLength[    931509,      16913]
+NotebookOptionsPosition[    822678,      15013]
+NotebookOutlinePosition[    906637,      16415]
+CellTagsIndexPosition[    906486,      16408]
 WindowTitle->Statistical Mechanics - Lec. 10\012 III.G Conservation Laws
 WindowFrame->PopupMenu*)
 
@@ -14905,7 +14905,29 @@ complete picture of fluid behavior.\
    FrameBoxOptions->{FrameMargins->15,
    RoundingRadius->{10, 10}},ExpressionUUID->
    "c0e3c8c1-88c5-4801-86be-60106aaef30d"]]], "Input",ExpressionUUID->\
-"d47741d9-1f2e-4a35-9656-53d8acbc9eb9"],
+"d47741d9-1f2e-4a35-9656-53d8acbc9eb9"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["", "SlideShowNavigationBar",
+ CellTags->
+  "SlideShowHeader",ExpressionUUID->"3e0d28db-f0c6-4639-a8de-4f342b769bed"],
+
+Cell[CellGroupData[{
+
+Cell["Reference", "Section",
+ CellChangeTimes->{{3.9281848246052523`*^9, 
+  3.92818483521806*^9}},ExpressionUUID->"546ff0e2-fbac-4dc7-b92c-\
+157ad3b5b1d1"],
+
+Cell["\<\
+https://assets.cambridge.org/97805218/73420/frontmatter/9780521873420_\
+frontmatter.pdf\
+\>", "Text",
+ CellChangeTimes->{
+  3.928184841949131*^9},ExpressionUUID->"797d0870-8ce4-49f2-9c69-\
+2a29761cc645"],
 
 Cell[CellGroupData[{
 
@@ -14985,6 +15007,7 @@ FontColor->RGBColor[1, 0, 0]]\\)Resetear\"",
  CellChangeTimes->{3.928419397115644*^9},
  CellLabel->
   "Out[134]=",ExpressionUUID->"6b7c865a-b4c1-4518-97d7-527684a4229f"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
@@ -16095,10 +16118,57 @@ ExpressionUUID->"28e4208b-a530-4f30-8ab6-1dc2dee6658e"
 (* Internal cache information *)
 (*CellTagsOutline
 CellTagsIndex->{
- "mmAeSRunSave"->{
-  Cell[818529, 14911, 276, 6, 104, "Input",ExpressionUUID->"989b9b1b-28f2-4141-a0a5-d61900882160",
-   CellTags->"mmAeSRunSave",
-   CellID->597836845]},
+ "SlideShowHeader"->{
+  Cell[58243, 1003, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"7fecde32-e06f-4ec4-b130-2c65075d5355",
+   CellTags->"SlideShowHeader"],
+  Cell[62013, 1074, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"e123eac6-6a63-4675-8fa1-94b4fe75ac0b",
+   CellTags->"SlideShowHeader"],
+  Cell[87652, 1551, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"ab462d9f-b87a-43bb-bde4-b0c6e26ff0dc",
+   CellTags->"SlideShowHeader"],
+  Cell[132881, 2386, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"d360b837-8d48-4ba2-91da-5c33b1832bd7",
+   CellTags->"SlideShowHeader"],
+  Cell[180778, 3249, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"e4cd2669-6d3d-4b5e-88aa-0ca8747a9837",
+   CellTags->"SlideShowHeader"],
+  Cell[228623, 4103, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"db7a0b93-ead1-4317-8d50-a64a7215d625",
+   CellTags->"SlideShowHeader"],
+  Cell[233170, 4218, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"20786485-4f03-4d92-827b-fe299ed47fb2",
+   CellTags->"SlideShowHeader"],
+  Cell[237767, 4336, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"02d447c0-66b1-4632-92e7-98d672667eed",
+   CellTags->"SlideShowHeader"],
+  Cell[242053, 4447, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"b4563c1f-053d-46aa-8b8e-73b6e129e82b",
+   CellTags->"SlideShowHeader"],
+  Cell[330614, 6001, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"b80b6f32-be2a-4cce-ad1d-dd9ab1c78be8",
+   CellTags->"SlideShowHeader"],
+  Cell[388561, 7020, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"91ea8519-af84-4d6c-b502-85607ae7f372",
+   CellTags->"SlideShowHeader"],
+  Cell[392273, 7118, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"09bd6ab6-638c-49db-a0ec-182a88a39aa5",
+   CellTags->"SlideShowHeader"],
+  Cell[452835, 8217, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"71e0adb3-1d1c-430d-be86-a3f3a50ddef3",
+   CellTags->"SlideShowHeader"],
+  Cell[469096, 8528, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"5dae89bd-dbfc-413a-82f3-afa9f43a9ca2",
+   CellTags->"SlideShowHeader"],
+  Cell[480850, 8773, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"4166011c-e5b6-4757-b256-063bbab748ab",
+   CellTags->"SlideShowHeader"],
+  Cell[492604, 9011, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"9fe420a0-a728-460a-9f38-dc651123611f",
+   CellTags->"SlideShowHeader"],
+  Cell[547684, 9989, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"9cbc2a7a-9bac-46de-b2d1-6dff36094f26",
+   CellTags->"SlideShowHeader"],
+  Cell[585600, 10665, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"3e785508-2357-41a5-af39-63f6e9151d99",
+   CellTags->"SlideShowHeader"],
+  Cell[605618, 11043, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"9333ffc4-a0cf-4f31-a143-eb52a06eb1ce",
+   CellTags->"SlideShowHeader"],
+  Cell[638224, 11658, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"b58636fc-7df1-4b13-9511-b08fa8f01ac4",
+   CellTags->"SlideShowHeader"],
+  Cell[688030, 12544, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"b7e208d5-1d2b-4b58-9dd0-51a625ad8746",
+   CellTags->"SlideShowHeader"],
+  Cell[740905, 13476, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"a6af2aa4-5c60-4e5f-8504-b14642545ef0",
+   CellTags->"SlideShowHeader"],
+  Cell[755917, 13782, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"99593921-b926-4aa6-900a-7e09690a073b",
+   CellTags->"SlideShowHeader"],
+  Cell[781062, 14242, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"dff322b1-ad7c-41f3-986f-1e1d79bbbc8c",
+   CellTags->"SlideShowHeader"],
+  Cell[818541, 14912, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"3e0d28db-f0c6-4639-a8de-4f342b769bed",
+   CellTags->"SlideShowHeader"]},
  "mmaitexButtons"->{
   Cell[62322, 1087, 275, 7, 56, "Input",ExpressionUUID->"d93998bc-2958-4dc6-afd0-483d961e989f",
    CellTags->"mmaitexButtons",
@@ -16329,62 +16399,17 @@ CellTagsIndex->{
    CellID->2062933380],
   Cell[816510, 14857, 749, 24, 77, "Output",ExpressionUUID->"5f21bc76-0f7a-42d1-bf81-bd42f1bf5627",
    CellTags->"mmaitexButtons"]},
- "SlideShowHeader"->{
-  Cell[58243, 1003, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"7fecde32-e06f-4ec4-b130-2c65075d5355",
-   CellTags->"SlideShowHeader"],
-  Cell[62013, 1074, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"e123eac6-6a63-4675-8fa1-94b4fe75ac0b",
-   CellTags->"SlideShowHeader"],
-  Cell[87652, 1551, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"ab462d9f-b87a-43bb-bde4-b0c6e26ff0dc",
-   CellTags->"SlideShowHeader"],
-  Cell[132881, 2386, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"d360b837-8d48-4ba2-91da-5c33b1832bd7",
-   CellTags->"SlideShowHeader"],
-  Cell[180778, 3249, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"e4cd2669-6d3d-4b5e-88aa-0ca8747a9837",
-   CellTags->"SlideShowHeader"],
-  Cell[228623, 4103, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"db7a0b93-ead1-4317-8d50-a64a7215d625",
-   CellTags->"SlideShowHeader"],
-  Cell[233170, 4218, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"20786485-4f03-4d92-827b-fe299ed47fb2",
-   CellTags->"SlideShowHeader"],
-  Cell[237767, 4336, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"02d447c0-66b1-4632-92e7-98d672667eed",
-   CellTags->"SlideShowHeader"],
-  Cell[242053, 4447, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"b4563c1f-053d-46aa-8b8e-73b6e129e82b",
-   CellTags->"SlideShowHeader"],
-  Cell[330614, 6001, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"b80b6f32-be2a-4cce-ad1d-dd9ab1c78be8",
-   CellTags->"SlideShowHeader"],
-  Cell[388561, 7020, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"91ea8519-af84-4d6c-b502-85607ae7f372",
-   CellTags->"SlideShowHeader"],
-  Cell[392273, 7118, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"09bd6ab6-638c-49db-a0ec-182a88a39aa5",
-   CellTags->"SlideShowHeader"],
-  Cell[452835, 8217, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"71e0adb3-1d1c-430d-be86-a3f3a50ddef3",
-   CellTags->"SlideShowHeader"],
-  Cell[469096, 8528, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"5dae89bd-dbfc-413a-82f3-afa9f43a9ca2",
-   CellTags->"SlideShowHeader"],
-  Cell[480850, 8773, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"4166011c-e5b6-4757-b256-063bbab748ab",
-   CellTags->"SlideShowHeader"],
-  Cell[492604, 9011, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"9fe420a0-a728-460a-9f38-dc651123611f",
-   CellTags->"SlideShowHeader"],
-  Cell[547684, 9989, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"9cbc2a7a-9bac-46de-b2d1-6dff36094f26",
-   CellTags->"SlideShowHeader"],
-  Cell[585600, 10665, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"3e785508-2357-41a5-af39-63f6e9151d99",
-   CellTags->"SlideShowHeader"],
-  Cell[605618, 11043, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"9333ffc4-a0cf-4f31-a143-eb52a06eb1ce",
-   CellTags->"SlideShowHeader"],
-  Cell[638224, 11658, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"b58636fc-7df1-4b13-9511-b08fa8f01ac4",
-   CellTags->"SlideShowHeader"],
-  Cell[688030, 12544, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"b7e208d5-1d2b-4b58-9dd0-51a625ad8746",
-   CellTags->"SlideShowHeader"],
-  Cell[740905, 13476, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"a6af2aa4-5c60-4e5f-8504-b14642545ef0",
-   CellTags->"SlideShowHeader"],
-  Cell[755917, 13782, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"99593921-b926-4aa6-900a-7e09690a073b",
-   CellTags->"SlideShowHeader"],
-  Cell[781062, 14242, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"dff322b1-ad7c-41f3-986f-1e1d79bbbc8c",
-   CellTags->"SlideShowHeader"]}
+ "mmAeSRunSave"->{
+  Cell[819084, 14933, 276, 6, 104, "Input",ExpressionUUID->"989b9b1b-28f2-4141-a0a5-d61900882160",
+   CellTags->"mmAeSRunSave",
+   CellID->597836845]}
  }
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"mmAeSRunSave", 889097, 16097},
- {"mmaitexButtons", 889270, 16101},
- {"SlideShowHeader", 902240, 16331}
+ {"SlideShowHeader", 889667, 16120},
+ {"mmaitexButtons", 893344, 16171},
+ {"mmAeSRunSave", 906311, 16401}
  }
 *)
 (*NotebookFileOutline
@@ -16873,13 +16898,21 @@ Cell[815986, 14845, 521, 10, 56, "Input",ExpressionUUID->"bca59c0e-0406-46a1-aaf
 Cell[816510, 14857, 749, 24, 77, "Output",ExpressionUUID->"5f21bc76-0f7a-42d1-bf81-bd42f1bf5627",
  CellTags->"mmaitexButtons"]
 }, Open  ]],
-Cell[817274, 14884, 1230, 23, 500, "Input",ExpressionUUID->"d47741d9-1f2e-4a35-9656-53d8acbc9eb9"],
+Cell[817274, 14884, 1230, 23, 500, "Input",ExpressionUUID->"d47741d9-1f2e-4a35-9656-53d8acbc9eb9"]
+}, Open  ]],
 Cell[CellGroupData[{
-Cell[818529, 14911, 276, 6, 104, "Input",ExpressionUUID->"989b9b1b-28f2-4141-a0a5-d61900882160",
+Cell[818541, 14912, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"3e0d28db-f0c6-4639-a8de-4f342b769bed",
+ CellTags->"SlideShowHeader"],
+Cell[CellGroupData[{
+Cell[818688, 14918, 155, 3, 145, "Section",ExpressionUUID->"546ff0e2-fbac-4dc7-b92c-157ad3b5b1d1"],
+Cell[818846, 14923, 213, 6, 56, "Text",ExpressionUUID->"797d0870-8ce4-49f2-9c69-2a29761cc645"],
+Cell[CellGroupData[{
+Cell[819084, 14933, 276, 6, 104, "Input",ExpressionUUID->"989b9b1b-28f2-4141-a0a5-d61900882160",
  CellTags->"mmAeSRunSave",
  CellID->597836845],
-Cell[818808, 14919, 1702, 34, 61, "Output",ExpressionUUID->"c0057ff3-1ec9-40e1-99a4-9ce750b9b63c"],
-Cell[820513, 14955, 1570, 31, 97, "Output",ExpressionUUID->"6b7c865a-b4c1-4518-97d7-527684a4229f"]
+Cell[819363, 14941, 1702, 34, 61, "Output",ExpressionUUID->"c0057ff3-1ec9-40e1-99a4-9ce750b9b63c"],
+Cell[821068, 14977, 1570, 31, 97, "Output",ExpressionUUID->"6b7c865a-b4c1-4518-97d7-527684a4229f"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }

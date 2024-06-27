@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[   4159681,      71917]
-NotebookOptionsPosition[   4016673,      69404]
-NotebookOutlinePosition[   4113927,      71020]
-CellTagsIndexPosition[   4113773,      71013]
+NotebookDataLength[   4160804,      71950]
+NotebookOptionsPosition[   4017240,      69427]
+NotebookOutlinePosition[   4114642,      71045]
+CellTagsIndexPosition[   4114488,      71038]
 WindowTitle->Statistical Mechanics - Lec. 6 II.D Many Random Variables
 WindowFrame->PopupMenu*)
 
@@ -69319,7 +69319,29 @@ volume for discretization of phase space is set by Planck's constant $\\hbar$.\
  CellChangeTimes->{{3.9283254479267483`*^9, 3.9283254480599737`*^9}, {
   3.9283255392161837`*^9, 
   3.928325539216201*^9}},ExpressionUUID->"4244cf02-6821-4808-b102-\
-41488ba1f587"],
+41488ba1f587"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["", "SlideShowNavigationBar",
+ CellTags->
+  "SlideShowHeader",ExpressionUUID->"210e87f3-0a17-4907-940e-29874f2188bd"],
+
+Cell[CellGroupData[{
+
+Cell["Reference", "Section",
+ CellChangeTimes->{{3.9281848246052523`*^9, 
+  3.92818483521806*^9}},ExpressionUUID->"d98da3a5-7540-4021-9e55-\
+a0191c7f0c01"],
+
+Cell["\<\
+https://assets.cambridge.org/97805218/73420/frontmatter/9780521873420_\
+frontmatter.pdf\
+\>", "Text",
+ CellChangeTimes->{
+  3.928184841949131*^9},ExpressionUUID->"978824a3-66b2-4799-af9d-\
+71694301f7a4"],
 
 Cell[CellGroupData[{
 
@@ -69399,6 +69421,7 @@ FontColor->RGBColor[1, 0, 0]]\\)Resetear\"",
  CellChangeTimes->{3.928321830368225*^9},
  CellLabel->
   "Out[167]=",ExpressionUUID->"ccbc0d6e-512e-4021-98b2-c02692a2a41a"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
@@ -70599,6 +70622,8 @@ CellTagsIndex->{
   Cell[3921341, 67720, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"913f3205-61c7-4608-a4cb-7900d3ca84e4",
    CellTags->"SlideShowHeader"],
   Cell[3986782, 68851, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"7d7b9c4c-66fb-42d8-82ad-466fe0057419",
+   CellTags->"SlideShowHeader"],
+  Cell[4013105, 69326, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"210e87f3-0a17-4907-940e-29874f2188bd",
    CellTags->"SlideShowHeader"]},
  "mmaitexButtons"->{
   Cell[2357986, 39291, 351, 8, 56, "Input",ExpressionUUID->"d9ea67aa-c666-4d5c-8628-1c7898ee507d",
@@ -71005,16 +71030,16 @@ CellTagsIndex->{
   Cell[3987372, 68873, 24538, 425, 157, "Output",ExpressionUUID->"2e4912c8-e3e4-4962-85ac-38bfb82e91f8",
    CellTags->"mmaitexButtons"]},
  "mmAeSRunSave"->{
-  Cell[4013093, 69325, 276, 6, 104, "Input",ExpressionUUID->"83c00802-8be5-4604-8f59-564ea092d100",
+  Cell[4013648, 69347, 276, 6, 104, "Input",ExpressionUUID->"83c00802-8be5-4604-8f59-564ea092d100",
    CellTags->"mmAeSRunSave",
    CellID->463738096]}
  }
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"SlideShowHeader", 4083661, 70511},
- {"mmaitexButtons", 4090342, 70602},
- {"mmAeSRunSave", 4113597, 71006}
+ {"SlideShowHeader", 4084228, 70534},
+ {"mmaitexButtons", 4091057, 70627},
+ {"mmAeSRunSave", 4114312, 71031}
  }
 *)
 (*NotebookFileOutline
@@ -71910,13 +71935,21 @@ Cell[3987093, 68864, 276, 7, 56, "Input",ExpressionUUID->"38ae52b9-fc83-4bc4-a69
 Cell[3987372, 68873, 24538, 425, 157, "Output",ExpressionUUID->"2e4912c8-e3e4-4962-85ac-38bfb82e91f8",
  CellTags->"mmaitexButtons"]
 }, {2}]],
-Cell[4011922, 69301, 1146, 20, 323, "Input",ExpressionUUID->"4244cf02-6821-4808-b102-41488ba1f587"],
+Cell[4011922, 69301, 1146, 20, 323, "Input",ExpressionUUID->"4244cf02-6821-4808-b102-41488ba1f587"]
+}, Open  ]],
 Cell[CellGroupData[{
-Cell[4013093, 69325, 276, 6, 104, "Input",ExpressionUUID->"83c00802-8be5-4604-8f59-564ea092d100",
+Cell[4013105, 69326, 122, 2, 1, "SlideShowNavigationBar",ExpressionUUID->"210e87f3-0a17-4907-940e-29874f2188bd",
+ CellTags->"SlideShowHeader"],
+Cell[CellGroupData[{
+Cell[4013252, 69332, 155, 3, 145, "Section",ExpressionUUID->"d98da3a5-7540-4021-9e55-a0191c7f0c01"],
+Cell[4013410, 69337, 213, 6, 56, "Text",ExpressionUUID->"978824a3-66b2-4799-af9d-71694301f7a4"],
+Cell[CellGroupData[{
+Cell[4013648, 69347, 276, 6, 104, "Input",ExpressionUUID->"83c00802-8be5-4604-8f59-564ea092d100",
  CellTags->"mmAeSRunSave",
  CellID->463738096],
-Cell[4013372, 69333, 1700, 34, 61, "Output",ExpressionUUID->"7ed0c69f-a7d4-4131-af61-6ddc0c47cc19"],
-Cell[4015075, 69369, 1570, 31, 97, "Output",ExpressionUUID->"ccbc0d6e-512e-4021-98b2-c02692a2a41a"]
+Cell[4013927, 69355, 1700, 34, 61, "Output",ExpressionUUID->"7ed0c69f-a7d4-4131-af61-6ddc0c47cc19"],
+Cell[4015630, 69391, 1570, 31, 97, "Output",ExpressionUUID->"ccbc0d6e-512e-4021-98b2-c02692a2a41a"]
+}, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }
