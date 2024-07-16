@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[   2568355,      44271]
-NotebookOptionsPosition[   2469792,      42588]
-NotebookOutlinePosition[   2547799,      43883]
-CellTagsIndexPosition[   2547645,      43876]
+NotebookDataLength[   2568427,      44272]
+NotebookOptionsPosition[   2469866,      42589]
+NotebookOutlinePosition[   2547872,      43884]
+CellTagsIndexPosition[   2547718,      43877]
 WindowTitle->Statistical Mechanics - Lec. 2 I.D The Second Law
 WindowFrame->PopupMenu*)
 
@@ -42507,12 +42507,13 @@ frontmatter.pdf\
 Cell[CellGroupData[{
 
 Cell["\<\
-mathPiXDB1=\"VarsPaper23_v1.mx\";\[IndentingNewLine]DumpSave[$WorkDir<>\"\
-mathPiXDB/\"<>mathPiXDB1,\"Global`\"];\
+ThermoLecsDB1=\"VarsPaper23_v1.mx\";\[IndentingNewLine]DumpSave[$WorkDir<>\"\
+ThermoLecs24/\"<>ThermoLecsDB1,\"Global`\"];\
 \>", "Input",
+ CellChangeTimes->{{3.930074125631572*^9, 3.930074168549346*^9}},
  Background->RGBColor[1, 0.9, 0.8],
  CellTags->"mmAeSRunSave",
- CellID->105,ExpressionUUID->"49ccdb31-95a3-4ce2-bdad-9a458be8f661"],
+ CellID->23,ExpressionUUID->"04221d11-4c8c-46d1-9980-6c1c1668acf4"],
 
 Cell[BoxData[
  TemplateBox[{
@@ -43694,9 +43695,9 @@ ExpressionUUID->"b90db7f0-a892-4b50-8965-db03f05979ca"
 (*CellTagsOutline
 CellTagsIndex->{
  "mmAeSRunSave"->{
-  Cell[2466206, 42508, 270, 6, 104, "Input",ExpressionUUID->"49ccdb31-95a3-4ce2-bdad-9a458be8f661",
+  Cell[2466206, 42508, 344, 7, 104, "Input",ExpressionUUID->"04221d11-4c8c-46d1-9980-6c1c1668acf4",
    CellTags->"mmAeSRunSave",
-   CellID->105]},
+   CellID->23]},
  "mmaitexButtons"->{
   Cell[1753271, 29359, 263, 7, 56, "Input",ExpressionUUID->"2194bd40-8a3f-469b-a3c4-f1d507576ba0",
    CellTags->"mmaitexButtons",
@@ -43875,9 +43876,9 @@ CellTagsIndex->{
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"mmAeSRunSave", 2536769, 43695},
- {"mmaitexButtons", 2536937, 43699},
- {"SlideShowHeader", 2543775, 43820}
+ {"mmAeSRunSave", 2536843, 43696},
+ {"mmaitexButtons", 2537010, 43700},
+ {"SlideShowHeader", 2543848, 43821}
  }
 *)
 (*NotebookFileOutline
@@ -44265,11 +44266,11 @@ Cell[CellGroupData[{
 Cell[2465810, 42493, 155, 3, 145, "Section",ExpressionUUID->"0076d45a-4a82-4a29-bdbb-24f30982cf8b"],
 Cell[2465968, 42498, 213, 6, 56, "Text",ExpressionUUID->"7917609c-11e4-4261-a374-9fadd5619f9f"],
 Cell[CellGroupData[{
-Cell[2466206, 42508, 270, 6, 104, "Input",ExpressionUUID->"49ccdb31-95a3-4ce2-bdad-9a458be8f661",
+Cell[2466206, 42508, 344, 7, 104, "Input",ExpressionUUID->"04221d11-4c8c-46d1-9980-6c1c1668acf4",
  CellTags->"mmAeSRunSave",
- CellID->105],
-Cell[2466479, 42516, 1700, 34, 61, "Output",ExpressionUUID->"736de7ca-57c9-44c9-8bb5-9848946ae91b"],
-Cell[2468182, 42552, 1570, 31, 97, "Output",ExpressionUUID->"1c8e1056-c1ee-4599-9674-e0f85e41cf0e"]
+ CellID->23],
+Cell[2466553, 42517, 1700, 34, 61, "Output",ExpressionUUID->"736de7ca-57c9-44c9-8bb5-9848946ae91b"],
+Cell[2468256, 42553, 1570, 31, 97, "Output",ExpressionUUID->"1c8e1056-c1ee-4599-9674-e0f85e41cf0e"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]

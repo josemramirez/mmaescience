@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[   2189443,      39181]
-NotebookOptionsPosition[   2062765,      36949]
-NotebookOutlinePosition[   2153646,      38463]
-CellTagsIndexPosition[   2153492,      38456]
+NotebookDataLength[   2189512,      39182]
+NotebookOptionsPosition[   2062838,      36950]
+NotebookOutlinePosition[   2153717,      38464]
+CellTagsIndexPosition[   2153563,      38457]
 WindowTitle->Statistical Mechanics - Lec. 11\012 III.H Zeroth Order \
 Hydrodynamics
 WindowFrame->PopupMenu*)
@@ -36868,12 +36868,13 @@ frontmatter.pdf\
 Cell[CellGroupData[{
 
 Cell["\<\
-mathPiXDB1=\"VarsPaper23_v1.mx\";\[IndentingNewLine]DumpSave[$WorkDir<>\"\
-mathPiXDB/\"<>mathPiXDB1,\"Global`\"];\
+ThermoLecsDB1=\"VarsPaper23_v1.mx\";\[IndentingNewLine]DumpSave[$WorkDir<>\"\
+ThermoLecs24/\"<>ThermoLecsDB1,\"Global`\"];\
 \>", "Input",
+ CellChangeTimes->{{3.930074125631572*^9, 3.930074168549346*^9}},
  Background->RGBColor[1, 0.9, 0.8],
  CellTags->"mmAeSRunSave",
- CellID->1862994144,ExpressionUUID->"3aa1ab8e-d8b2-449a-814b-0ab1b0a60c65"],
+ CellID->35077127,ExpressionUUID->"1f594a72-a864-44ac-b47a-3937c6e0a15e"],
 
 Cell[BoxData[
  TemplateBox[{
@@ -38448,16 +38449,16 @@ CellTagsIndex->{
   Cell[2017627, 36131, 40116, 695, 167, "Output",ExpressionUUID->"60248618-3ded-4cec-93e7-3925140fd3c9",
    CellTags->"mmaitexButtons"]},
  "mmAeSRunSave"->{
-  Cell[2059172, 36869, 277, 6, 104, "Input",ExpressionUUID->"3aa1ab8e-d8b2-449a-814b-0ab1b0a60c65",
+  Cell[2059172, 36869, 350, 7, 104, "Input",ExpressionUUID->"1f594a72-a864-44ac-b47a-3937c6e0a15e",
    CellTags->"mmAeSRunSave",
-   CellID->1862994144]}
+   CellID->35077127]}
  }
 *)
 (*CellTagsIndex
 CellTagsIndex->{
- {"SlideShowHeader", 2129765, 38057},
- {"mmaitexButtons", 2135671, 38138},
- {"mmAeSRunSave", 2153315, 38449}
+ {"SlideShowHeader", 2129838, 38058},
+ {"mmaitexButtons", 2135744, 38139},
+ {"mmAeSRunSave", 2153388, 38450}
  }
 *)
 (*NotebookFileOutline
@@ -39175,11 +39176,11 @@ Cell[CellGroupData[{
 Cell[2058776, 36854, 155, 3, 145, "Section",ExpressionUUID->"d73d62e1-4159-47e0-9494-cd624453ef7f"],
 Cell[2058934, 36859, 213, 6, 56, "Text",ExpressionUUID->"04e91185-0bd9-4082-bab5-29096181906d"],
 Cell[CellGroupData[{
-Cell[2059172, 36869, 277, 6, 104, "Input",ExpressionUUID->"3aa1ab8e-d8b2-449a-814b-0ab1b0a60c65",
+Cell[2059172, 36869, 350, 7, 104, "Input",ExpressionUUID->"1f594a72-a864-44ac-b47a-3937c6e0a15e",
  CellTags->"mmAeSRunSave",
- CellID->1862994144],
-Cell[2059452, 36877, 1700, 34, 61, "Output",ExpressionUUID->"e559d4a4-69a8-400f-a18f-e706d226b442"],
-Cell[2061155, 36913, 1570, 31, 97, "Output",ExpressionUUID->"757bbd1a-3c12-466e-8f10-20bd60ce3439"]
+ CellID->35077127],
+Cell[2059525, 36878, 1700, 34, 61, "Output",ExpressionUUID->"e559d4a4-69a8-400f-a18f-e706d226b442"],
+Cell[2061228, 36914, 1570, 31, 97, "Output",ExpressionUUID->"757bbd1a-3c12-466e-8f10-20bd60ce3439"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]

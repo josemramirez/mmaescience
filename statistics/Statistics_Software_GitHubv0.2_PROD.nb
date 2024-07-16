@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    208226,       3510]
-NotebookOptionsPosition[    140491,       2388]
-NotebookOutlinePosition[    207533,       3503]
-CellTagsIndexPosition[    207490,       3500]
+NotebookDataLength[    223807,       3861]
+NotebookOptionsPosition[    156066,       2739]
+NotebookOutlinePosition[    223108,       3854]
+CellTagsIndexPosition[    223065,       3851]
 WindowTitle->Statistics
 WindowFrame->PopupMenu*)
 
@@ -2181,7 +2181,7 @@ VVVVVVVVVdXfAOZo1vM=
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}], 
   Column]], "Text",
  Editable->False,
- Deletable->False,ExpressionUUID->"9058d52d-b565-4a7d-a3c7-678afb7c180e"],
+ Deletable->False,ExpressionUUID->"9018db24-ca02-4708-af94-4d29393eadb7"],
 
 Cell[BoxData[
  SubsuperscriptBox["cloud", 
@@ -2193,7 +2193,7 @@ Cell[BoxData[
    FontSize->9]]], "Text",
  Editable->False,
  Deletable->False,
- Background->None,ExpressionUUID->"5d3bd394-f59a-44cd-aa0b-8beb55788512"],
+ Background->None,ExpressionUUID->"7538f5c1-ee7f-4f93-8983-0bc21c4e20db"],
 
 Cell[CellGroupData[{
 
@@ -2203,21 +2203,22 @@ Cell[BoxData[
    "https://www.wolframcloud.com/obj/dronesaipeiskos/Published/Statistics_v01.\
 nb"},
   "HyperlinkURL"]], "Subtitle",
- TextAlignment->Center,ExpressionUUID->"f594bcfc-bd04-4616-925c-2e6f3faebe08"],
+ TextAlignment->Center,ExpressionUUID->"a934b77a-4b14-4cf5-a8e1-7353332c8df6"],
 
 Cell[BoxData[
  TagBox[GridBox[{
     {
      ButtonBox[
-      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"q\\\",FontFamily->\\\"dt-technology-\
-10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[1, 0, 0]]\
-\\)  Lecture_1\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\
-\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
+10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  \
+Lecture_1\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
+FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
 9859464408331426, 0., 0.026932173647669186`]]\\)  tested: \
 \\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\\\",FontWeight->\\\"\
 Regular\\\"]\\) 2024 I\"\>",
        StripOnInput->False,
-       FontSize->17],
+       FontSize->18],
       Appearance->"DialogBox",
       ButtonFunction:>NotebookSave[
         NotebookOpen[$CellContext`$WorkDirGit <> 
@@ -2230,19 +2231,18 @@ Regular\\\"]\\) 2024 I\"\>",
       StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
 10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
 9859464408331426, 0., 0.026932173647669186`]]\\)  \
-Lecture_5\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
+Lecture_10\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
 FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
 9859464408331426, 0., 0.026932173647669186`]]\\)  tested: \
 \\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\\\",FontWeight->\\\"\
-Regular\\\"]\\) mnras - \\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\
-\\\",FontWeight->\\\"Regular\\\"]\\) apj\"\>",
+Regular\\\"]\\) 2024 I\"\>",
        StripOnInput->False,
        FontSize->18],
       Appearance->"DialogBox",
       ButtonFunction:>NotebookSave[
         NotebookOpen[$CellContext`$WorkDirGit <> 
-         Part[$CellContext`TstringFileSoftware2A, 5]], NotebookDirectory[] <> 
-        Part[$CellContext`TstringFileSoftware2A, 5] <> "_From_Cloud.nb"],
+         Part[$CellContext`TstringFileSoftware2A, 10]], NotebookDirectory[] <> 
+        Part[$CellContext`TstringFileSoftware2A, 10] <> "_From_Cloud.nb"],
       Evaluator->Automatic,
       ImageSize->{290, 100},
       Method->"Preemptive"]},
@@ -2269,15 +2269,19 @@ Regular\\\"]\\) 2024 I\"\>",
      ButtonBox[
       StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
 10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
-9859464408331426, 0., 0.026932173647669186`]]\\)  MMaTeX\"\>",
+9859464408331426, 0., 0.026932173647669186`]]\\)  \
+Lecture_11\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
+FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  tested: \
+\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\\\",FontWeight->\\\"\
+Regular\\\"]\\) 2024 I\"\>",
        StripOnInput->False,
        FontSize->18],
       Appearance->"DialogBox",
       ButtonFunction:>NotebookSave[
-        NotebookOpen[
-        "https://raw.githubusercontent.com/josemramirez/mmatex/main/new_\
-versions/MMaTeX_Software_GitHubv0.2_PROD.nb"], NotebookDirectory[] <> 
-        "MMaTeX_Software_GitHubv0.2_PROD_From_Cloud.nb"],
+        NotebookOpen[$CellContext`$WorkDirGit <> 
+         Part[$CellContext`TstringFileSoftware2A, 11]], NotebookDirectory[] <> 
+        Part[$CellContext`TstringFileSoftware2A, 11] <> "_From_Cloud.nb"],
       Evaluator->Automatic,
       ImageSize->{290, 100},
       Method->"Preemptive"]},
@@ -2304,15 +2308,19 @@ Regular\\\"]\\) 2024 I\"\>",
      ButtonBox[
       StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
 10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
-9859464408331426, 0., 0.026932173647669186`]]\\)  Quantum Mechanics - Intro\"\
-\>",
+9859464408331426, 0., 0.026932173647669186`]]\\)  \
+Lecture_12\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
+FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  tested: \
+\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\\\",FontWeight->\\\"\
+Regular\\\"]\\) 2024 I\"\>",
        StripOnInput->False,
        FontSize->18],
       Appearance->"DialogBox",
-      ButtonFunction:>(
-       NotebookOpen[
-        "https://raw.githubusercontent.com/josemramirez/mmaescience/main/QM_\
-intro/QMmmAeScience_Software_GitHubv0.2_PROD.nb"]; Null),
+      ButtonFunction:>NotebookSave[
+        NotebookOpen[$CellContext`$WorkDirGit <> 
+         Part[$CellContext`TstringFileSoftware2A, 12]], NotebookDirectory[] <> 
+        Part[$CellContext`TstringFileSoftware2A, 12] <> "_From_Cloud.nb"],
       Evaluator->Automatic,
       ImageSize->{290, 100},
       Method->"Preemptive"]},
@@ -2339,14 +2347,200 @@ Regular\\\"]\\) 2024 I\"\>",
      ButtonBox[
       StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
 10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  \
+Lecture_13\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
+FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  tested: \
+\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\\\",FontWeight->\\\"\
+Regular\\\"]\\) 2024 I\"\>",
+       StripOnInput->False,
+       FontSize->18],
+      Appearance->"DialogBox",
+      ButtonFunction:>NotebookSave[
+        NotebookOpen[$CellContext`$WorkDirGit <> 
+         Part[$CellContext`TstringFileSoftware2A, 13]], NotebookDirectory[] <> 
+        Part[$CellContext`TstringFileSoftware2A, 13] <> "_From_Cloud.nb"],
+      Evaluator->Automatic,
+      ImageSize->{290, 100},
+      Method->"Preemptive"]},
+    {
+     ButtonBox[
+      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
+10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  \
+Lecture_5\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
+FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  tested: \
+\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\\\",FontWeight->\\\"\
+Regular\\\"]\\) 2024 I\"\>",
+       StripOnInput->False,
+       FontSize->18],
+      Appearance->"DialogBox",
+      ButtonFunction:>NotebookSave[
+        NotebookOpen[$CellContext`$WorkDirGit <> 
+         Part[$CellContext`TstringFileSoftware2A, 5]], NotebookDirectory[] <> 
+        Part[$CellContext`TstringFileSoftware2A, 5] <> "_From_Cloud.nb"],
+      Evaluator->Automatic,
+      ImageSize->{290, 100},
+      Method->"Preemptive"], 
+     ButtonBox[
+      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
+10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  \
+Lecture_14\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
+FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  tested: \
+\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\\\",FontWeight->\\\"\
+Regular\\\"]\\) 2024 I\"\>",
+       StripOnInput->False,
+       FontSize->18],
+      Appearance->"DialogBox",
+      ButtonFunction:>NotebookSave[
+        NotebookOpen[$CellContext`$WorkDirGit <> 
+         Part[$CellContext`TstringFileSoftware2A, 14]], NotebookDirectory[] <> 
+        Part[$CellContext`TstringFileSoftware2A, 14] <> "_From_Cloud.nb"],
+      Evaluator->Automatic,
+      ImageSize->{290, 100},
+      Method->"Preemptive"]},
+    {
+     ButtonBox[
+      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
+10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  \
+Lecture_6\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
+FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  tested: \
+\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\\\",FontWeight->\\\"\
+Regular\\\"]\\) 2024 I\"\>",
+       StripOnInput->False,
+       FontSize->18],
+      Appearance->"DialogBox",
+      ButtonFunction:>NotebookSave[
+        NotebookOpen[$CellContext`$WorkDirGit <> 
+         Part[$CellContext`TstringFileSoftware2A, 6]], NotebookDirectory[] <> 
+        Part[$CellContext`TstringFileSoftware2A, 6] <> "_From_Cloud.nb"],
+      Evaluator->Automatic,
+      ImageSize->{290, 100},
+      Method->"Preemptive"], 
+     ButtonBox[
+      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
+10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  Chat with Stat v0.1\"\>",
+       StripOnInput->False,
+       FontSize->18],
+      Appearance->"DialogBox",
+      ButtonFunction:>NotebookSave[
+        NotebookOpen[
+        "https://raw.githubusercontent.com/josemramirez/mmaescience/main/\
+statistics/Stat_CHAT_v14_PROD.nb"], NotebookDirectory[] <> 
+        "Stat_CHAT_v14_PROD_From_Cloud.nb"],
+      Evaluator->Automatic,
+      ImageSize->{290, 100},
+      Method->"Preemptive"]},
+    {
+     ButtonBox[
+      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
+10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  \
+Lecture_7\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
+FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  tested: \
+\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\\\",FontWeight->\\\"\
+Regular\\\"]\\) 2024 I\"\>",
+       StripOnInput->False,
+       FontSize->18],
+      Appearance->"DialogBox",
+      ButtonFunction:>NotebookSave[
+        NotebookOpen[$CellContext`$WorkDirGit <> 
+         Part[$CellContext`TstringFileSoftware2A, 7]], NotebookDirectory[] <> 
+        Part[$CellContext`TstringFileSoftware2A, 7] <> "_From_Cloud.nb"],
+      Evaluator->Automatic,
+      ImageSize->{290, 100},
+      Method->"Preemptive"], 
+     ButtonBox[
+      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
+10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  MMaTeX\"\>",
+       StripOnInput->False,
+       FontSize->18],
+      Appearance->"DialogBox",
+      ButtonFunction:>NotebookSave[
+        NotebookOpen[
+        "https://raw.githubusercontent.com/josemramirez/mmatex/main/new_\
+versions/MMaTeX_Software_GitHubv0.2_PROD.nb"], NotebookDirectory[] <> 
+        "MMaTeX_Software_GitHubv0.2_PROD_From_Cloud.nb"],
+      Evaluator->Automatic,
+      ImageSize->{290, 100},
+      Method->"Preemptive"]},
+    {
+     ButtonBox[
+      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
+10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  \
+Lecture_8\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
+FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  tested: \
+\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\\\",FontWeight->\\\"\
+Regular\\\"]\\) 2024 I\"\>",
+       StripOnInput->False,
+       FontSize->18],
+      Appearance->"DialogBox",
+      ButtonFunction:>NotebookSave[
+        NotebookOpen[$CellContext`$WorkDirGit <> 
+         Part[$CellContext`TstringFileSoftware2A, 8]], NotebookDirectory[] <> 
+        Part[$CellContext`TstringFileSoftware2A, 8] <> "_From_Cloud.nb"],
+      Evaluator->Automatic,
+      ImageSize->{290, 100},
+      Method->"Preemptive"], 
+     ButtonBox[
+      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
+10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  Quantum Mechanics - Intro\"\
+\>",
+       StripOnInput->False,
+       FontSize->18],
+      Appearance->"DialogBox",
+      ButtonFunction:>NotebookSave[
+        NotebookOpen[
+        "https://raw.githubusercontent.com/josemramirez/mmaescience/main/QM_\
+intro/QMmmAeScience_Software_GitHubv0.2_PROD.nb"], NotebookDirectory[] <> 
+        "QMmmAeScience_Software_GitHubv0.2_PROD_From_Cloud.nb"],
+      Evaluator->Automatic,
+      ImageSize->{290, 100},
+      Method->"Preemptive"]},
+    {
+     ButtonBox[
+      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
+10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  \
+Lecture_9\\n\\!\\(\\*StyleBox[\\\"8\\\",FontFamily->\\\"dt-technology-10\\\",\
+FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
+9859464408331426, 0., 0.026932173647669186`]]\\)  tested: \
+\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-web-04\\\",FontWeight->\\\"\
+Regular\\\"]\\) 2024 I\"\>",
+       StripOnInput->False,
+       FontSize->18],
+      Appearance->"DialogBox",
+      ButtonFunction:>NotebookSave[
+        NotebookOpen[$CellContext`$WorkDirGit <> 
+         Part[$CellContext`TstringFileSoftware2A, 9]], NotebookDirectory[] <> 
+        Part[$CellContext`TstringFileSoftware2A, 9] <> "_From_Cloud.nb"],
+      Evaluator->Automatic,
+      ImageSize->{290, 100},
+      Method->"Preemptive"], 
+     ButtonBox[
+      StyleBox["\<\"\\!\\(\\*StyleBox[\\\"4\\\",FontFamily->\\\"dt-technology-\
+10\\\",FontSize->18,FontWeight->\\\"Regular\\\",FontColor->RGBColor[0.\
 9859464408331426, 0., 0.026932173647669186`]]\\)  Calculus\"\>",
        StripOnInput->False,
        FontSize->18],
       Appearance->"DialogBox",
-      ButtonFunction:>(
+      ButtonFunction:>NotebookSave[
        NotebookOpen[
-        "https://raw.githubusercontent.com/josemramirez/mmaescience/main/calc_\
-intro/CalceScience_Software_GitHubv0.2_PROD.nb"]; Null),
+         "https://raw.githubusercontent.com/josemramirez/mmaescience/main/\
+calc_intro/CalceScience_Software_GitHubv0.2_PROD.nb"]; Null, 
+        NotebookDirectory[] <> 
+        "CalceScience_Software_GitHubv0.2_PROD_From_Cloud.nb"],
       Evaluator->Automatic,
       ImageSize->{290, 100},
       Method->"Preemptive"]}
@@ -2355,11 +2549,168 @@ intro/CalceScience_Software_GitHubv0.2_PROD.nb"]; Null),
    GridBoxAlignment->{"Columns" -> {{Left}}, "Rows" -> {{Baseline}}},
    GridBoxItemSize->{"Columns" -> {{Automatic}}, "Rows" -> {{Automatic}}}],
   "Grid"]], "Text",
- TextAlignment->Left,ExpressionUUID->"78201a2d-6829-4cd4-a241-3109edcc3f3c"],
+ TextAlignment->Left,ExpressionUUID->"3e83db46-5636-4f6c-9ca2-dcc33a943d40"],
 
-Cell[BoxData[
- RowBox[{"Material", " ", "Curso", " ", "Estad\[IAcute]stica", " ", "2024", 
-  " ", "II"}]], "Text",ExpressionUUID->"d3532857-ac95-452f-960c-b0207f56215f"],
+Cell[BoxData[{
+ RowBox[{
+  StyleBox[
+   RowBox[{
+   "Advanced", " ", "Thermodynamics", " ", "and", " ", "Statistical", " ", 
+    "Mechanics", " ", "Course"}],
+   FontWeight->"Bold"], "\n"}], "\n", 
+ RowBox[{"##", " ", "Course", " ", "Overview"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+   "This", " ", "comprehensive", " ", "course", " ", "in", " ", 
+    "Thermodynamics", " ", "and", " ", "Statistical", " ", "Mechanics", " ", 
+    "is", " ", "meticulously", " ", "crafted", " ", "to", " ", "provide", " ",
+     "a", " ", "deep", " ", "understanding", " ", "of", " ", "the", " ", 
+    "fundamental", " ", "principles", " ", "governing", " ", "thermal", " ", 
+    "physics", " ", "and", " ", "their", " ", "statistical", " ", 
+    RowBox[{"underpinnings", ".", " ", "The"}], " ", "course", " ", 
+    "material", " ", "is", " ", "primarily", " ", "MIT", " ", "inspired"}], 
+   ",", " ", 
+   RowBox[{
+    RowBox[{"ensuring", " ", "a", " ", "rigorous", " ", "and", " ", "state"}],
+     "-", "of", "-", "the", "-", 
+    RowBox[{"art", " ", "approach", " ", "to", " ", "the", " ", 
+     RowBox[{"subject", ".", "\n", "\n", "##"}], " ", "Key", " ", 
+     "Features"}]}]}], "\n"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{
+    RowBox[{"1.", " ", "**", "MIT"}], "-", 
+    RowBox[{"Inspired", " ", 
+     RowBox[{"Content", "**"}]}]}], ":", "\n", "   ", 
+   RowBox[{
+    RowBox[{
+     RowBox[{"-", " ", "Incorporates"}], " ", "cutting"}], "-", 
+    RowBox[{
+    "edge", " ", "research", " ", "and", " ", "applications", " ", "in", " ", 
+     "the", " ", "field"}]}]}], "\n"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"2.", " ", "**", "Wolfram"}], " ", "Mathematica", " ", 
+   RowBox[{"Integration", "**"}]}], ":", "\n", "   ", 
+  RowBox[{
+   RowBox[{"-", " ", "14"}], " ", "perfectly", " ", "assembled", " ", 
+   "presentations", " ", 
+   RowBox[{"(", 
+    RowBox[{
+     RowBox[{"~", "30"}], " ", "pages", " ", "each"}], ")"}]}]}], "\n", 
+ RowBox[{"   ", 
+  RowBox[{
+   RowBox[{"-", " ", "Seamless"}], " ", "integration", " ", "of", " ", 
+   "theoretical", " ", "concepts", " ", "with", " ", "computational", " ", 
+   "tools"}], "\n"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"3.", " ", "**", "Ready"}], "-", "to", "-", 
+   RowBox[{"Use", " ", "Equations", " ", "and", " ", 
+    RowBox[{"Expressions", "**"}]}]}], ":", "\n", "   ", 
+  RowBox[{
+   RowBox[{"-", " ", "LaTeX"}], " ", "equations", " ", "for", " ", 
+   "theoretical", " ", "clarity"}]}], "\n", 
+ RowBox[{"   ", 
+  RowBox[{
+   RowBox[{"-", " ", "Mathematica"}], " ", "expressions", " ", "for", " ", 
+   "immediate", " ", "computational", " ", "application"}], "\n"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"4.", " ", "**", "Comprehensive"}], " ", "Mind", " ", 
+   RowBox[{"Maps", "**"}]}], ":", "\n", "   ", 
+  RowBox[{
+   RowBox[{"-", " ", "Overarching"}], " ", "course", " ", "mind", " ", "map", 
+   " ", "for", " ", "a", " ", "\"\<big picture\>\"", " ", 
+   "understanding"}]}], "\n", 
+ RowBox[{"   ", 
+  RowBox[{
+   RowBox[{"-", " ", "Individual"}], " ", "mind", " ", "maps", " ", "for", 
+   " ", "each", " ", "of", " ", "the", " ", "14", " ", "classes"}], 
+  "\n"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"5.", " ", "**", "Full"}], " ", "Semester", " ", 
+   RowBox[{"Timeline", "**"}]}], ":", "\n", "   ", 
+  RowBox[{
+   RowBox[{"-", " ", "Detailed"}], " ", "schedule", " ", "covering", " ", 
+   "the", " ", "entire", " ", "course", " ", "duration"}]}], "\n", 
+ RowBox[{"   ", 
+  RowBox[{
+   RowBox[{
+    RowBox[{"-", " ", "Optimal"}], " ", "pacing", " ", "for", " ", "in"}], 
+   "-", 
+   RowBox[{
+   "depth", " ", "learning", " ", "and", " ", "practical", " ", 
+    "applications"}]}], "\n"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"6.", " ", "**", "AI"}], "-", 
+   RowBox[{"Enhanced", " ", "Learning", " ", 
+    RowBox[{"Experience", "**"}]}]}], ":", "\n", "   ", 
+  RowBox[{
+   RowBox[{"-", " ", "Cutting"}], "-", 
+   RowBox[{
+   "edge", " ", "AI", " ", "technology", " ", "for", " ", "a", " ", 
+    "personalized", " ", "chat", " ", "interface"}]}]}], "\n", 
+ RowBox[{"   ", 
+  RowBox[{
+   RowBox[{"-", " ", "Fact"}], "-", 
+   RowBox[{
+   "checked", " ", "responses", " ", "to", " ", "minimize", " ", 
+    "hallucinations", " ", "and", " ", "provide", " ", "accurate", " ", 
+    "information"}]}], "\n"}], "\n", 
+ RowBox[{
+  RowBox[{
+   RowBox[{"7.", " ", "**", "Mathematica"}], " ", 
+   RowBox[{"Dashboard", "**"}]}], ":", "\n", "   ", 
+  RowBox[{
+   RowBox[{"-", " ", "Centralized"}], " ", "Mathematica", " ", "dashboard", 
+   " ", "for", " ", "course", " ", "organization"}]}], "\n", 
+ RowBox[{"   ", 
+  RowBox[{
+   RowBox[{"-", " ", "Easy"}], " ", "access", " ", "to", " ", "all", " ", 
+   "course", " ", "components", " ", "and", " ", "resources"}], 
+  "\n"}], "\n", 
+ RowBox[{"##", " ", "Course", " ", "Structure"}], "\n", 
+ RowBox[{
+  RowBox[{
+  "The", " ", "course", " ", "is", " ", "divided", " ", "into", " ", "14", 
+   " ", "comprehensive", " ", "classes"}], ",", " ", 
+  RowBox[{
+  "each", " ", "focusing", " ", "on", " ", "key", " ", "areas", " ", "of", 
+   " ", "Thermodynamics", " ", "and", " ", "Statistical", " ", 
+   RowBox[{"Mechanics", ".", " ", "Topics"}], " ", 
+   RowBox[{"include", ":", "\n", "\n", 
+    RowBox[{
+    "1.", " ", "Introduction", " ", "to", " ", "Thermodynamic", " ", 
+     "Systems"}]}]}]}], "\n", 
+ RowBox[{"2.", " ", "The", " ", "Laws", " ", "of", " ", 
+  "Thermodynamics"}], "\n", 
+ RowBox[{"3.", " ", "Entropy", " ", "and", " ", "the", " ", "Second", " ", 
+  "Law"}], "\n", 
+ RowBox[{"4.", " ", "Thermodynamic", " ", "Potentials", " ", "and", " ", 
+  "Relations"}], "\n", 
+ RowBox[{"5.", " ", "Phase", " ", "Transitions", " ", "and", " ", "Critical", 
+  " ", "Phenomena"}], "\n", 
+ RowBox[{"6.", " ", "Introduction", " ", "to", " ", "Statistical", " ", 
+  "Mechanics"}], "\n", 
+ RowBox[{"7.", " ", "Microcanonical", " ", "Ensemble"}], "\n", 
+ RowBox[{"8.", " ", "Canonical", " ", "Ensemble"}], "\n", 
+ RowBox[{
+  RowBox[{"9.", " ", "Grand", " ", "Canonical", " ", "Ensemble"}], 
+  "\n"}], "\n", 
+ RowBox[{
+  RowBox[{
+  "Each", " ", "class", " ", "seamlessly", " ", "integrates", " ", 
+   "theoretical", " ", "foundations", " ", "with", " ", "practical", " ", 
+   "Wolfram", " ", "Mathematica", " ", "implementations"}], ",", " ", 
+  RowBox[{
+  "ensuring", " ", "a", " ", "deep", " ", "and", " ", "applicable", " ", 
+   "understanding", " ", "of", " ", "the", " ", 
+   RowBox[{"material", "."}]}]}]}], "Text",ExpressionUUID->"9a447f5a-ffe8-\
+4347-aa95-b59c4b698a02"],
 
 Cell[BoxData[
  ButtonBox["\<\"Connect\"\>",
@@ -2368,11 +2719,11 @@ Cell[BoxData[
    "https://www.wolframcloud.com/obj/dronesaipeiskos/mathPiX/CreatorStatPiX_\
 Cloud_v1.mx"],
   Evaluator->Automatic,
-  Method->"Preemptive"]], "Input",ExpressionUUID->"8a19a8f9-6337-4dc8-afe5-\
-f2d5db693e0d"],
+  Method->"Preemptive"]], "Input",ExpressionUUID->"b538c4f3-d278-4d3c-86e9-\
+80fc93056e9a"],
 
 Cell[BoxData[
- ButtonBox["\<\"Tutorial\"\>",
+ ButtonBox["\<\"Tutorial MMaiTeX\"\>",
   Appearance->"DialogBox",
   ButtonFunction:>(
    NotebookOpen[
@@ -2381,9 +2732,9 @@ Cell[BoxData[
   Evaluator->Automatic,
   ImageSize->{222, 50},
   Method->"Preemptive"]], "Text",
- TextAlignment->Left,ExpressionUUID->"d08058c9-1500-4405-8f00-59bd5d5a8a58"],
+ TextAlignment->Left,ExpressionUUID->"3b1fbebc-b314-444b-b236-d62c5a01940a"],
 
-Cell["Describe el Tutorial.", "Text",ExpressionUUID->"1c214c02-5d7e-497b-ae14-cf6ce83d75b9"]
+Cell["Describe el Tutorial.", "Text",ExpressionUUID->"efdc10d4-e654-43fb-b6c0-6fe91efb6273"]
 }, Open  ]]
 },
 Editable->False,
@@ -3489,7 +3840,7 @@ Background->Opacity[0.6,
   RGBColor[1, 0.9, 0.8]],
 FrontEndVersion->"13.3 for Mac OS X x86 (64-bit) (July 24, 2023)",
 StyleDefinitions->"Default.nb",
-ExpressionUUID->"4240e5cb-9a61-49c4-8052-2b0eae2c915e"
+ExpressionUUID->"3b32df8e-6694-4150-a720-0d545a6dd869"
 ]
 (* End of Notebook Content *)
 
@@ -3502,15 +3853,15 @@ CellTagsIndex->{}
 *)
 (*NotebookFileOutline
 Notebook[{
-Cell[585, 21, 131407, 2162, 90, "Text",ExpressionUUID->"9058d52d-b565-4a7d-a3c7-678afb7c180e"],
-Cell[131995, 2185, 276, 10, 39, "Text",ExpressionUUID->"5d3bd394-f59a-44cd-aa0b-8beb55788512"],
+Cell[585, 21, 131407, 2162, 90, "Text",ExpressionUUID->"9018db24-ca02-4708-af94-4d29393eadb7"],
+Cell[131995, 2185, 276, 10, 39, "Text",ExpressionUUID->"7538f5c1-ee7f-4f93-8983-0bc21c4e20db"],
 Cell[CellGroupData[{
-Cell[132296, 2199, 304, 6, 107, InheritFromParent,ExpressionUUID->"f594bcfc-bd04-4616-925c-2e6f3faebe08"],
-Cell[132603, 2207, 6906, 150, 504, InheritFromParent,ExpressionUUID->"78201a2d-6829-4cd4-a241-3109edcc3f3c"],
-Cell[139512, 2359, 169, 2, 39, "Text",ExpressionUUID->"d3532857-ac95-452f-960c-b0207f56215f"],
-Cell[139684, 2363, 307, 8, 47, "Input",ExpressionUUID->"8a19a8f9-6337-4dc8-afe5-f2d5db693e0d"],
-Cell[139994, 2373, 386, 10, 77, InheritFromParent,ExpressionUUID->"d08058c9-1500-4405-8f00-59bd5d5a8a58"],
-Cell[140383, 2385, 92, 0, 39, "Text",ExpressionUUID->"1c214c02-5d7e-497b-ae14-cf6ce83d75b9"]
+Cell[132296, 2199, 304, 6, 63, InheritFromParent,ExpressionUUID->"a934b77a-4b14-4cf5-a8e1-7353332c8df6"],
+Cell[132603, 2207, 16172, 344, 1121, InheritFromParent,ExpressionUUID->"3e83db46-5636-4f6c-9ca2-dcc33a943d40"],
+Cell[148778, 2553, 6470, 159, 1608, "Text",ExpressionUUID->"9a447f5a-ffe8-4347-aa95-b59c4b698a02"],
+Cell[155251, 2714, 307, 8, 47, "Input",ExpressionUUID->"b538c4f3-d278-4d3c-86e9-80fc93056e9a"],
+Cell[155561, 2724, 394, 10, 77, InheritFromParent,ExpressionUUID->"3b1fbebc-b314-444b-b236-d62c5a01940a"],
+Cell[155958, 2736, 92, 0, 39, "Text",ExpressionUUID->"efdc10d4-e654-43fb-b6c0-6fe91efb6273"]
 }, Open  ]]
 }
 ]
